@@ -481,3 +481,19 @@ footer {
     font-size: 40px;
   }
 }
+.produit-info {
+  text-align: center;
+  background-color: #111;
+  color: #f0f0f0;
+  padding: 25px 15px;
+  border-radius: 12px;
+  margin-top: 30px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.produit-info p {
+  margin: 8px 0;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
